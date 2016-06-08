@@ -1,0 +1,112 @@
+/* 
+    Created on : Apr 15, 2016, 2:07:12 AM
+    Author     : Nikolay
+*/
+
+/*.field {
+    position: absolute;
+    height: 440px;
+    width: 400px;
+    margin: -100px 0 0 -200px;
+    top: 30%;
+    left: 50%;
+    background-color: #D3D3D3;
+
+}
+.field label, .field input {
+    display:inline-block;
+}
+
+.field label {
+    width:100px;  or whatever size you want them 
+}
+
+#fname {
+    width: 400px; can be in percentage also.
+    height: auto;
+    margin-right: 55px;
+    position: relative;
+    padding: 10px;
+
+    float:left;
+
+}
+
+#lname {
+    width: 400px; can be in percentage also.
+    height: auto;
+    margin-right: 55px;
+    position: relative;
+    padding: 10px;
+
+    float:left;
+
+}
+
+#email {
+    width: 400px; can be in percentage also.
+    height: auto;
+    margin-right: 55px;
+    position: relative;
+    padding: 10px;
+
+    float:left;
+
+}
+
+#user {
+    width: 400px; can be in percentage also.
+    height: auto;
+    margin-right: 55px;
+    position: relative;
+    padding: 10px;
+
+    float:left;
+
+}
+
+#pass {
+    width: 400px; can be in percentage also.
+    height: auto;
+    margin-right: 55px;
+    position: relative;
+    padding: 10px;
+    float:left;
+}
+
+#conPass {
+    width: 400px; can be in percentage also.
+    height: auto;
+    margin-right: 55px;
+    position: relative;
+    padding: 10px;
+    float:left;
+}
+
+#register {
+    width: auto; can be in percentage also.
+    height: auto;    
+    position: relative;
+    padding-left: 35px;
+    padding-top: 10px;
+    float:left;   
+}
+
+
+#TOS {
+    width: auto; can be in percentage also.
+    height: auto;    
+    position: relative;
+    padding-left: 40px;
+    padding-top: 10px;
+    float:left; 
+}
+
+#contact {
+    width: 400px; can be in percentage also.
+    height: auto;
+    margin-right: 55px;
+    position: relative;
+    padding: 10px;
+    float:left;
+}*/

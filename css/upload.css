@@ -1,0 +1,42 @@
+.upload {
+    padding-left: 25px;
+    float:left;
+  position:relative;
+    margin:0 auto;
+    clear:left;
+    height:auto;
+    z-index: 0;
+    text-align:center;     
+}
+
+.input-group {
+    float:left;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    position:relative;
+    margin:0 auto;
+    clear:left;
+    height:auto;
+    z-index: 0;
+    text-align:center;   
+}
+
+.input-group label {
+    float: left;
+    position:relative;
+    margin:0 auto;
+    clear:left;
+    height:auto;
+    z-index: 0;
+    text-align:center;   
+}
+
+.input-group input {
+    float: left;    
+    position:relative;
+    margin-left: 0 auto;
+    clear:left;
+    height:auto;
+    z-index: 0;
+    text-align:center; 
+}

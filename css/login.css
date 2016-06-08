@@ -1,0 +1,53 @@
+.login {
+    
+    float:left ;
+    width: 50%;
+    padding: 70px;
+    padding-left: 400px;
+    margin:  auto;
+    display: inline-block;       
+}
+
+.login h2 {
+    margin-top: 0px;
+}
+
+.signup h2 {
+    margin-top: 0px;
+}
+
+.signup {
+    
+    float: left;
+    width: 30%;
+    padding: 70px;
+    margin:  auto;
+    display: inline-block;   
+}
+
+.input-group {
+    padding-bottom: 10px;
+}
+
+.input-group label {
+    float: left;
+}
+
+.input-group input {
+    float: right;
+}
+
+.login .input-group {
+    width: 260px;
+}
+
+.signup .input-group {
+    width: 315px;
+}
+
+#checkText{  
+    margin: 0 auto;
+    text-align: center;
+    font-size: 18px;    
+    font-weight: bold;
+}

@@ -1,0 +1,15 @@
+#column-content {
+    max-height: 480px;
+    line-height: 480px;
+
+}
+
+#image-detail {
+    max-width: 400px;
+}
+
+span {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 20px;
+}

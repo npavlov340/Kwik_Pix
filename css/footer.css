@@ -1,0 +1,18 @@
+#footer {
+    background-color: black;
+    border-color: #080808;
+    padding: 12px;
+    text-align: center;
+}
+
+.help-message {
+    font-size: 18px;
+    font-family: "Arial Rounded MT Bold";
+    src: url(‘fonts/ufonts.com_arial-rounded-mt-bold.ttf’);
+    color: #00ccff;
+}
+
+.contact-info {
+    font-size: 25px;
+    color: #FFF;
+}
